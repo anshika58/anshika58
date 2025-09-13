@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Anshika 👋
 
-<!--
-**anshika58/anshika58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BTech CSE Student | 1st Year at PSIT, Kanpur  
+- 💻 Passionate about **Web Development** , **AI** and **DSA**
+- 🌱 Currently learning **C Language**, **HTML**, and **CSS**
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** C, Python (Basics)  
+- **Web Development:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **simple calculator** 
+- **Portfolio Website** – Coming soon!  
+
+## 📫 Connect with Me
+- [LinkedIn] www.linkedin.com/in/anshika-shukla638727
+- **Email:** shuklaanshika836@email.com
+
+
